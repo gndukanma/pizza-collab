@@ -4,3 +4,7 @@ def start_order():
 
 def add_pepperoni():
     print('Adding pepperoni to the pizza!')
+
+
+def add_pineapple():
+    print('adding pin')
